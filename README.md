@@ -1,1 +1,1 @@
-# integrated_exrcises
+# integrated_exercises
