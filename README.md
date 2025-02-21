@@ -1,1 +1,1 @@
-# integrated_exercises
+# Resolution of the integrated exercises of the platform
